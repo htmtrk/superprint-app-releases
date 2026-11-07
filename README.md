@@ -1,2 +1,3 @@
-# superprint-app-releases
-Official releases and OTA updates for SuperPrint Commercial Desktop Application
+# 🚀 SuperPrint Commercial - App Releases
+
+Official releases and over-the-air update packages for SuperPrint Desktop.
